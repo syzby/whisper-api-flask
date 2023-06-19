@@ -1,0 +1,5 @@
+flask
+flask-cors
+luminoth
+MarkupSafe==2.0.1
+zhconv
